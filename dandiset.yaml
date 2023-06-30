@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000569
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.4/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -45,16 +46,22 @@ contributor:
   - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2023-06-28T23:52:27.567158+00:00'
-description: HMBA Lein PatchSeq upload June 2023
+description: HMBA Lein PatchSeq upload (Q2 2023)
+ethicsApproval: []
 id: DANDI:000569/draft
 identifier: DANDI:000569
+keywords: []
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000569/versions/draft/assets/
 name: 20230630_AIBS_Patchseq_nonhuman_primate
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.4
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000569/draft
 version: draft
+wasGeneratedBy: []
