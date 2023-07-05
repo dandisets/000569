@@ -35,23 +35,75 @@ assetsSummary:
   - ProcessingModule
   - CurrentClampSeries
   - VoltageClampSeries
-citation: Mei, Nicholas (2023) 20230630_AIBS_Patchseq_nonhuman_primate (Version draft)
-  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000569/draft
+citation: Mei, Nicholas; Lee, Brian; Kalmbach, Brian; Dalley, Rachel; Lein, Ed (2023)
+  20230630_AIBS_Patchseq_nonhuman_primate (Version draft) [Data set]. DANDI archive.
+  https://dandiarchive.org/dandiset/000569/draft
 contributor:
 - affiliation: []
   email: nicholas.mei@alleninstitute.org
+  identifier: 0000-0001-8893-1763
   includeInCitation: true
   name: Mei, Nicholas
   roleName:
   - dcite:ContactPerson
   schemaKey: Person
-- {}
+- affiliation: []
+  email: brianle@alleninstitute.org
+  identifier: 0000-0002-3210-5638
+  includeInCitation: true
+  name: Lee, Brian
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  email: briank@alleninstitute.org
+  identifier: 0000-0003-3136-8097
+  includeInCitation: true
+  name: Kalmbach, Brian
+  roleName:
+  - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  email: racheld@alleninstitute.org
+  includeInCitation: true
+  name: Dalley, Rachel
+  roleName:
+  - dcite:ProjectMember
+  schemaKey: Person
+- affiliation: []
+  email: edl@alleninstitute.org
+  identifier: 0000-0001-9012-6552
+  includeInCitation: true
+  name: Lein, Ed
+  roleName:
+  - dcite:ProjectLeader
+  schemaKey: Person
+- awardNumber: UM1MH130981
+  contactPoint: []
+  identifier: https://ror.org/00dcv1019
+  includeInCitation: false
+  name: Allen Institute for Brain Science
+  roleName: []
+  schemaKey: Organization
+  url: https://alleninstitute.org/
+- awardNumber: UM1MH130981
+  contactPoint: []
+  identifier: https://ror.org/04xeg9z08
+  includeInCitation: false
+  name: National Institute of Mental Health
+  roleName:
+  - dcite:Funder
+  schemaKey: Organization
+  url: https://www.nimh.nih.gov/
 dateCreated: '2023-06-28T23:52:27.567158+00:00'
 description: HMBA Lein PatchSeq upload (Q2 2023)
 ethicsApproval: []
 id: DANDI:000569/draft
 identifier: DANDI:000569
-keywords: []
+keywords:
+- Patch-seq
+- non-human primate
+- multimodal
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
