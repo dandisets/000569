@@ -36,8 +36,8 @@ assetsSummary:
   - CurrentClampSeries
   - VoltageClampSeries
 citation: Mei, Nicholas; Lee, Brian; Kalmbach, Brian; Dalley, Rachel; Lein, Ed (2023)
-  20230630_AIBS_Patchseq_nonhuman_primate (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000569/draft
+  20230630_AIBS_Patchseq_nonhuman_primate (Version 0.230706.1630) [Data set]. DANDI
+  archive. https://doi.org/10.48324/dandi.000569/0.230706.1630
 contributor:
 - affiliation: []
   email: nicholas.mei@alleninstitute.org
@@ -98,8 +98,9 @@ contributor:
 dateCreated: '2023-06-28T23:52:27.567158+00:00'
 datePublished: '2023-07-06T16:30:03.950867+00:00'
 description: HMBA Lein PatchSeq upload (Q2 2023)
+doi: 10.48324/dandi.000569/0.230706.1630
 ethicsApproval: []
-id: DANDI:000569/draft
+id: DANDI:000569/0.230706.1630
 identifier: DANDI:000569
 keywords:
 - Patch-seq
@@ -108,7 +109,7 @@ keywords:
 license:
 - spdx:CC-BY-4.0
 manifestLocation:
-- https://api.dandiarchive.org/api/dandisets/000569/versions/draft/assets/
+- https://dandiarchive.s3.amazonaws.com/dandisets/000569/0.230706.1630/assets.yaml
 name: 20230630_AIBS_Patchseq_nonhuman_primate
 protocol:
 - https://www.protocols.io/view/patch-seq-recording-and-extraction-8epv51n45l1b/v3
@@ -130,6 +131,6 @@ schemaKey: Dandiset
 schemaVersion: 0.6.4
 studyTarget:
 - Multimodal classification of cell types in the non-human primate.
-url: https://dandiarchive.org/dandiset/000569/draft
-version: draft
+url: https://dandiarchive.org/dandiset/000569/0.230706.1630
+version: 0.230706.1630
 wasGeneratedBy: []
